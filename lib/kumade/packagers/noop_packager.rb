@@ -8,7 +8,7 @@ module Kumade
     end
 
     def self.installed?
-      false
+      true
     end
   end
 end
